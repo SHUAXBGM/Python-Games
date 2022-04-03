@@ -2,8 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-This repository contains a collection of small python games made by me using turtle, tkinter
-and pygame library.
+Read tha extra features list end the list and take the link download whtsapp🥳
 
 ## ALL ADD EXTRA FEATURES LIST
 

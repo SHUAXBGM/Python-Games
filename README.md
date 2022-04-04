@@ -37,8 +37,8 @@ Read tha extra features list end the list and take the link download whtsapp🥳
 ## APP LINK
 
 * ### SM WHATSAPP
-        > Use and enjoy and support me🥲
-        > Link to project : [SM WHATSAPP](https://www.mediafire.com/file/jkwsf5c9sfbg1vi/SMWhatsAp.apk/file)
+	> click to download and support me.\
+	> Link to project : [SM WHATSAPP](https://www.mediafire.com/file/jkwsf5c9sfbg1vi/SMWhatsAp.apk/file)
 
 ## Working Tools
 
